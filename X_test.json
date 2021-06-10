@@ -1,1 +1,1 @@
-["work_interfere_non_effective_treatment", "diagnosed_disorder", "work_interfere_effective_treatment", "current_disorder", "family_history", "past_disorder", "care_options", "friends_family"]
+["customerID","gender ", "SeniorCitizen", "Partner", "Dependents   ", "tenure ", "PhoneService ", "MultipleLines", " InternetService ","OnlineSecurity","OnlineBackup","OnlineBackup","DeviceProtection","TechSupport "," StreamingTV ","StreamingMovies","StreamingMovies","Contract","Contract"," PaperlessBilling","PaymentMethod ","PaymentMethod ","MonthlyCharges","TotalCharges","Churn "]
