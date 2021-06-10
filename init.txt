@@ -1,0 +1,11 @@
+<project folder>
+  |--- requirements.txt
+  |--- runtime.txt
+  |--- Procfile
+  |--- app.py
+  |--- models <folder named "models">
+  |       |--- model.pkl
+  |       |--- X_test.json
+  |--- templates <folder named "templates">
+  |       |--- index.html
+  |--- run_app.bat
